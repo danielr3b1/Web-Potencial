@@ -1,5 +1,7 @@
-[
-  {
-    "hola": "sfsdfsd"
-  }
-]
+{
+   "modpack":{
+      "name_modpack":"CronoCraft",
+      "modpack_link":"https://github.com/danielr3b1/Web-Potencial/raw/master/CronoCraft.rar"
+   },
+   "version":"1.0"
+}

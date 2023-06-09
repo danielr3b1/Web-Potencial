@@ -1,7 +1,17 @@
-{
-   "modpack":{
-      "name_modpack":"CronoCraft",
-      "modpack_link":"https://github.com/danielr3b1/Web-Potencial/raw/master/CronoCraft.rar"
+[
+   {
+      "release": []
    },
-   "version":"1.0"
-}
+   {
+      "snapshot": []
+   },
+   {
+      "alpha": [
+         {
+            "version": "a1.0.0",
+            "name_modpack": "CronoCraft Alpha",
+            "modpack_link": "https://www.mediafire.com/file/gau1pc4dc24kppv/modpack.zip/file"
+         }
+      ]
+   }
+]

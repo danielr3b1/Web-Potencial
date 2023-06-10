@@ -1,12 +1,12 @@
 [
    {
-      "release": []
+      "Release": []
    },
    {
-      "snapshot": []
+      "Snapshot": []
    },
    {
-      "alpha": [
+      "Alpha": [
          {
             "version": "a1.0.0",
             "name_modpack": "CronoCraft Alpha",

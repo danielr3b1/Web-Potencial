@@ -1,4 +1,10 @@
-[
+[ 
+   {
+        "id": 6,
+        "name_modpack": "CronoCraft-v1.3.0",
+        "modpack_link": "https://www.mediafire.com/file/r5d3e8fdmcfgc5i/modpackV3.zip/file",
+        "version": "r1.3.0"
+    },
     {
         "id": 5,
         "name_modpack": "CronoCraft-v1.2.1",
